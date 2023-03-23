@@ -1,0 +1,15 @@
+Z:\Programacion\4to\TP1BIS\bin\Debug\net6.0\TP1BIS.exe
+Z:\Programacion\4to\TP1BIS\bin\Debug\net6.0\TP1BIS.deps.json
+Z:\Programacion\4to\TP1BIS\bin\Debug\net6.0\TP1BIS.runtimeconfig.json
+Z:\Programacion\4to\TP1BIS\bin\Debug\net6.0\TP1BIS.dll
+Z:\Programacion\4to\TP1BIS\bin\Debug\net6.0\TP1BIS.pdb
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.csproj.AssemblyReference.cache
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.AssemblyInfoInputs.cache
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.AssemblyInfo.cs
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.csproj.CoreCompileInputs.cache
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.dll
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\refint\TP1BIS.dll
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.pdb
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\TP1BIS.genruntimeconfig.cache
+Z:\Programacion\4to\TP1BIS\obj\Debug\net6.0\ref\TP1BIS.dll
